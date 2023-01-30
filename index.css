@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background-color: #1B244A; 
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+}
+
+.count {
+    background-color: black;
+    color: #F94F6D;
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
+    font-size: 45px;
+    font-family: 'Cursed Timer ULiL';
+}
+
+.guest {
+    position: flex;
+    font-family: Verdana;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.points {
+    border-radius: 5px;
+    
+}
+
+    
